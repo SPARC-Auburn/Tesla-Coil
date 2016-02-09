@@ -2,6 +2,5 @@
 
 ### Videos
 <video width="320" height="200" controls preload> 
-<<<<<<< HEAD
-    <source src="Videos/video.mp4"></source> 
+    <source src="Tesla-Coil/Videos/Fourth Test 2-2-16.MOV"></source> 
 </video>
