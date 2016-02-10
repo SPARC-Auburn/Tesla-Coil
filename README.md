@@ -6,7 +6,7 @@ As a demonstration for Auburn's E-Day, we are building a full size tesla coil.  
 		
 #How it Works
 
-There are two different types of tesla coils: spark gap and solid state.  Nicola Tesla built spark gap tesla coils.  A spark gap tesla coil works by using a high voltage transformer (12kV-15kV) that then charges a capacitor.  The capacitor then discharges across a small gap of air hence the spark gap.  This creates a resonating square wave of high voltage that then is conducted through a primary coil.  The primary coil inducts through electromagnitism into the secondary coil.  Charge builds up in the air around the toroid and creates an arc of electricity.
+There are two different types of tesla coils: spark gap and solid state.  Nicola Tesla built spark gap tesla coils.  A spark gap tesla coil works by using a high voltage transformer that then charges a capacitor.  The capacitor then discharges across a small gap of air hence the spark gap.  This creates a resonating square wave of high voltage that then is conducted through a primary coil.  The primary coil inducts through electromagnitism into the secondary coil.  Charge builds up in the air around the toroid and creates an arc of electricity.
 			
 #Our progress
 
