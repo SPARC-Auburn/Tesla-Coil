@@ -5,7 +5,7 @@ width:350px;
 -moz-transform: rotate(180deg);
 -o-transform: rotate(180deg);
 -ms-transform: rotate(180deg);
-transform: rotate(90deg);"/>
+transform: rotate(180deg);"/>
 
 #Overview
 
