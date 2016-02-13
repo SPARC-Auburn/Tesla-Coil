@@ -20,10 +20,10 @@ The goal is to develop a tesla coil that can shoot out arcs of lengths up to 3 f
 
 <h3>Useful Links</h3>
 
-Inspiration: https://www.youtube.com/watch?v=fdIYwIWfYyo
-Minature Tesla Coil: https://www.youtube.com/watch?v=qUKYCRhXFgo
-Small Scale Example: https://onetesla.com/
-How Tesla Coils Work: http://www.realclearscience.com/articles/2014/01/29/how_tesla_coils_work_108474.html
-List of Tesla Coil Formulas:http://teslacoils4christ.org/TCFormulas/TCFormulas.htm
-How to make a Musical Tesla Coil: http://www.instructables.com/id/Build-a-Musical-Tesla-Coil-like-a-Pro/
-MMC Capacitor: http://deepfriedneon.com/tesla_f_mmc.html
+Inspiration: https://www.youtube.com/watch?v=fdIYwIWfYyo </br>
+Minature Tesla Coil: https://www.youtube.com/watch?v=qUKYCRhXFgo</br>
+Small Scale Example: https://onetesla.com/</br>
+How Tesla Coils Work: http://www.realclearscience.com/articles/2014/01/29/how_tesla_coils_work_108474.html</br>
+List of Tesla Coil Formulas:http://teslacoils4christ.org/TCFormulas/TCFormulas.htm</br>
+How to make a Musical Tesla Coil: http://www.instructables.com/id/Build-a-Musical-Tesla-Coil-like-a-Pro/</br>
+MMC Capacitor: http://deepfriedneon.com/tesla_f_mmc.html</br>
