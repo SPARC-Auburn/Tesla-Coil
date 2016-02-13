@@ -17,6 +17,6 @@ The goal is to develop a tesla coil that can shoot out arcs of lengths up to 3 f
 
 <img src="/Photos/fourth_test.JPG" width="350"/>
 <video width="320" height="240" controls>
-  <source src="Videos/Fourth Test 2-2-16_x264.mp4" type="video/mp4">
+  <source src="https://github.com/SPARC-Auburn/Tesla-Coil/blob/master/Videos/Fourth%20Test%202-2-16_x264.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
