@@ -1,5 +1,5 @@
 # Tesla-Coil
-<img src="/Photos/first%20test.jpg" width="150"/>
+<img src="/Photos/first%20test.jpg" width="350"/>
 
 #Overview
 
