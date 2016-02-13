@@ -1,9 +1,6 @@
 # Tesla-Coil
 
-.. image:: https://github.com/SPARC-Auburn/Tesla-Coil/blob/master/Photos/first%20test.jpg
-   :height: 200px
-   :width: 100 px
-   :scale: 50 %
+<img src="https://github.com/SPARC-Auburn/Tesla-Coil/blob/master/Photos/first%20test.jpg)" width="350"/>
 
 #Overview
 
