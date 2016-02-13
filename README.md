@@ -1,11 +1,9 @@
 # Tesla-Coil
 <img src="/Photos/first%20test.jpg" style="
 width:350px;
--webkit-transform: rotate(180deg);
--moz-transform: rotate(180deg);
--o-transform: rotate(180deg);
--ms-transform: rotate(180deg);
-transform: rotate(180deg);"/>
+ -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);"/>
 
 #Overview
 
