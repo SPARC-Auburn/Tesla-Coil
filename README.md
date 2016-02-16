@@ -27,3 +27,5 @@ How Tesla Coils Work: http://www.realclearscience.com/articles/2014/01/29/how_te
 List of Tesla Coil Formulas:http://teslacoils4christ.org/TCFormulas/TCFormulas.htm</br>
 How to make a Musical Tesla Coil: http://www.instructables.com/id/Build-a-Musical-Tesla-Coil-like-a-Pro/</br>
 MMC Capacitor: http://deepfriedneon.com/tesla_f_mmc.html</br>
+
+<p><b>Project Initiation Date:</b> 9/24/15</b></p>
