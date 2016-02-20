@@ -16,8 +16,8 @@ There are two different types of tesla coils: spark gap and solid state.  Nicola
 
 The goal is to develop a tesla coil that can shoot out arcs of lengths up to 3 feet.  Our goal is to create a musical tesla coil.  Basically it produce arcs in the resonance and rhythm as preprogrammed music.  We decided to divide the project into three sections: minature spark gap tesla coil, large spark gap tesla coil, and large musical solid state tesla coil.  We completed the minature tesla coil and it works as designed and generates an arc length of about 2 cm.  From there we have constructed a full scale tesla coil using a 7530 volt transformer.  We are currently in the testing phase with more development left.
 
-<img src="/Photos/fifth_test1.JPG" width="350"/>
-<img src="/Videos/fifthtest.gif" width="350"/>
+<img src="/Photos/fifth_test1.JPG" height="350"/>
+<img src="/Videos/fifthtest.gif" height="350"/>
 
 <h3>Useful Links</h3>
 
